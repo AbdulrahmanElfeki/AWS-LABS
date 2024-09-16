@@ -12,7 +12,7 @@ This project uses Terraform to create the following AWS resources:
 * Public EC2 instance.
 * Private EC2 instance.
 * security groups
-
+* 
 ## Prerequisites
 Before running the deployment script, you will need to have the following:
 
@@ -34,3 +34,5 @@ Run ```terraform plan``` to preview the changes that Terraform plans to make to 
 Run ```terraform apply``` to deploy your infrastructure. 
 
 ## verification
+![image](https://github.com/user-attachments/assets/c25f5d32-a603-490f-9fda-7057cd5651cd)
+
