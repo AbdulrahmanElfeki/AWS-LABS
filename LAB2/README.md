@@ -9,10 +9,9 @@ This project uses Terraform to create the following AWS resources:
 
 * VPC
 * Internet Gateway.
-* Public Route Table.
-* Private Route Table.
 * Public EC2 instance.
 * Private EC2 instance.
+* security groups
 
 ## Prerequisites
 Before running the deployment script, you will need to have the following:
