@@ -25,7 +25,7 @@ Before running the deployment script, you will need to have the following:
 Clone this repository to your local machine.
 ```
 git clone https://github.com/AbdulrahmanElfeki/AWS-LABS
-cd LAB1 
+cd LAB2
 ```
 Run ```terraform init``` to download the necessary Terraform plugins.
 
