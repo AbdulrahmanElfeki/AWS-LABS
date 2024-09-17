@@ -2,7 +2,8 @@
 This repository contains the Terraform code to deploy infrastructure on AWS. It includes creating a VPC with public and private subnets, launching EC2 instances in the public and private subnets.
 
 # AWS Arhitecture
-![image](https://github.com/user-attachments/assets/21216efc-7756-4150-8d34-980bbf4ee39f)
+![image](https://github.com/user-attachments/assets/70cad716-f954-4b64-813d-7cf098cff58a)
+
 
 ## Overview
 This project uses Terraform to create the following AWS resources:
