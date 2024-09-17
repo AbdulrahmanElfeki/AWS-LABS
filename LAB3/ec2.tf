@@ -5,7 +5,7 @@ resource "aws_instance" "ec2_public" {
   tags = {
     Name = "ec2_public"
   }
-  key_name = "prom"
+  key_name = ""
   availability_zone = "us-east-1a"
 }
 
@@ -13,7 +13,7 @@ resource "aws_instance" "ec2_private" {
   ami           = "ami-06c68f701d8090592"
   instance_type = "t2.micro"
   availability_zone = "us-east-1a"
-  key_name = "prom"
+  key_name = ""
   subnet_id     = aws_subnet.private_subnet.id
   tags = {
     Name = "ec2_private"
