@@ -7,5 +7,4 @@
 - LAB3: Create webserver in Bastion Host
 - LAB4: Create webserver with NLB & ALB
 - LAB5: Static hosting website using S3 bucket
-- LAB7: Trigger Lambda by S3
-- LAB8: Connect Lambda with DDB
+- LAB6: Trigger Lambda Function by S3
