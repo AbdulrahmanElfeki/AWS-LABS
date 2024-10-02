@@ -30,3 +30,4 @@ Run ```terraform plan``` to preview the changes that Terraform plans to make to 
 Run ```terraform apply``` to deploy your infrastructure. 
 ## verification
 upload an object to S3 bucket and check both DynamoDB table & email Inbox.
+![image](https://github.com/user-attachments/assets/6e37234c-c52f-4ebf-b152-631b7cf0d613)
